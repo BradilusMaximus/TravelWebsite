@@ -1,0 +1,22 @@
+{
+  "name": "travel-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Travel Website",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^2.32.13",
+    "gatsby-plugin-gatsby-cloud": "^1.0.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
